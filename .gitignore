@@ -1,0 +1,15 @@
+# R specific
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rapp.history
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Large rMATS or RNAseq files (optional)
+# Uncomment the line below if you want to exclude very large raw data files
+# *.fastq
+# *.bam
